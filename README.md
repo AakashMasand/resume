@@ -1,2 +1,2 @@
 # resume
-I am creating my resume for the Cloud Resume Challenge
+I am creating a digital resume for myself
