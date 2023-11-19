@@ -1,0 +1,9 @@
+name: deploy_backend
+# Deploys when push is made from the backend folder
+
+on:
+    push:
+        branches: 
+            - 'main'
+        paths:
+            -'backend/**'
