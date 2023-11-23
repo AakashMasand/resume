@@ -16,7 +16,7 @@ using System.Text;
 
 namespace Company.Function
 {
-    public static class GetReumeCounter
+    public static class GetResumeCounter
     {
         [FunctionName("GetReumeCounter")]
         public static HttpResponseMessage Run(
